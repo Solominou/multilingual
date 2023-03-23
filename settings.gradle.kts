@@ -5,7 +5,6 @@ rootProject.name = "CloudstreamPlugins"
 
 // Plugins are included like this
 val disabled = listOf<String>(
-    "EgyBestProvider",
     "FaselHDProvider",
     "AkwamProvider",
     "MyCimaProvider", 
